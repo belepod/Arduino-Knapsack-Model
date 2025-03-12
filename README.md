@@ -32,6 +32,11 @@ The project utilizes the 0/1 Knapsack Algorithm, which works as follows:
 4.	Use dynamic programming to determine the optimal set of items to include.
 5.	Select and dispense the chosen items accordingly.
 
+
+![alt](https://github.com/belepod/Arduino-Knapsack-Model/blob/master/circuit%20diagram.png)
+
+
+
 ## 3.2. Hardware Functionality
 
 1.	Item Detection: When a user places an item on the vending platform, the ultrasonic sensor detects its presence.
@@ -162,3 +167,4 @@ Developing a cloud-based analytics system to optimize vending machine restocking
 ## 7. Conclusion
 This research successfully demonstrates the practical implementation of the knapsack algorithm using an Arduino-based vending machine. The integration of sensors and actuators with the algorithm allows for effective sorting and selection of items based on predefined constraints. Future developments can refine this model for broader applications in automation and smart retail systems, making it an ideal solution for efficient inventory management and decision-making processes.
 
+![alt](https://github.com/belepod/Arduino-Knapsack-Model/blob/master/model_photo1.jpeg)
